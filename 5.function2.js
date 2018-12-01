@@ -8,4 +8,15 @@ function panggilNilai(){
   }
 }
 
+var panggilNilai1 = function(){
+  var nilai = 3
+  if(nilai ===3){
+    console.log("Benar")
+  }
+  else{
+    console.log("Salah")
+  }
+}
+
 panggilNilai()
+panggilNilai1()
