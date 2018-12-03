@@ -7,6 +7,12 @@ var panggilFor = ()=>{
     {
       console.log("Hai")
     }
+<<<<<<< HEAD
+=======
+    else if (i % 5 === 0){
+      console.log("hai juga")
+    }
+>>>>>>> staging
     else{
       console.log(i)
     }
